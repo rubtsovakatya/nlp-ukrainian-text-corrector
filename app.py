@@ -20,7 +20,7 @@ st.html("""
 
     .block-container {
         max-width: 850px;
-        padding-top: 3rem;
+        padding-top: 5rem;
         padding-bottom: 3rem;
     }
 
